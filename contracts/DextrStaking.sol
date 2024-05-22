@@ -15,7 +15,7 @@ import "@openzeppelin/contracts-upgradeable/token/ERC20/utils/SafeERC20Upgradeab
   @author hariprakash
   @notice Staking Pools, Deposit Token, Withdraw Tokens, Withdraw reward tokens,
  */
-contract CalsoftStaking is
+contract DextrStaking is
     Initializable,
     OwnableUpgradeable,
     PausableUpgradeable,
